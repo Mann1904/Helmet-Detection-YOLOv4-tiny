@@ -1,5 +1,8 @@
 # Helmet-Detection-YOLOv4-tiny
-
+  One of the major causes of serious injuries or death in accidents involving two-wheelers is that the rider was not wearing a helmet. Policemen manually checking whether the riders are using helmets is the only available method employed presently.So there is a need for systems that can be automatically detect whether a rider is wearing helmet or not.
+  The AI-based Helmet Detection technology can easily detect people who are without helmets on the road.. It is implemented using Opencv, Python, YOLOv4-tiny .
+  
+  
 
 ## How to run ?
 ### Conda (Recommended)
