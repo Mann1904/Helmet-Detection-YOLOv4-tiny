@@ -41,11 +41,13 @@ python detect_video.py --weights ./checkpoints/yolov4-tiny-416 --size 416 --mode
 
 # Result Images
 
-![3](https://github.com/Mann1904/Helmet-Detection-YOLOv4-tiny/blob/main/data/helpers/3.png)
+<p align="center"><img src="data/helpers/3.png"\></p>
 
-![1](https://github.com/Mann1904/Helmet-Detection-YOLOv4-tiny/blob/main/data/helpers/1.png)
+<p align="center"><img src="data/helpers/1.pngf"\></p>
 
-![2](https://github.com/Mann1904/Helmet-Detection-YOLOv4-tiny/blob/main/data/helpers/2.png)
+<p align="center"><img src="data/helpers/2.png"\></p>
+
+
 
 
 
